@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.container{
+	display:flex;
+	gap:10px;
+}
+.panel{
+	border-radius:20px;
+	width:50px;
+	height:200px;
+}
+#panel-1{
+	width:200px;
+	img-text:Explore the world;
+}
+#panel-2{
+	img-text:Wild Forest;
+}
+#panel-3{
+	img-text:City on Winter;
+}
+#panel-4{
+	img-text:Mountain Cloud;
+}
+#panel-5{
+	img-text:Sunny Beach;
+}
